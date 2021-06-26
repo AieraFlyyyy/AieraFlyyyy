@@ -1,6 +1,6 @@
 ## 👋自我介绍
 
-Hi，我是Aiera，2018年毕业，现生活在成都
+Hi，我是Aiera，2018年毕业，现生活在成都，目前做前端开发工作
 
 
 ### 🌱性格
@@ -8,9 +8,9 @@ Hi，我是Aiera，2018年毕业，现生活在成都
 
 
 ### 技能树
-- 熟悉 React,React Native,Js,Redux,Webpack
-- 了解 Nodejs,go
-- 了解部分底层原理、网络和Web相关知识
+- 熟悉掌握 React,React Native,Js,Redux,Webpack,git
+- 熟悉 Nodejs,
+- 了解 go、网络和Web相关知识
 
 
 ### 在校奖励
@@ -22,9 +22,9 @@ Hi，我是Aiera，2018年毕业，现生活在成都
 ### 兴趣爱好
 * 在ygo DL里打牌 （菜鸡牌佬 :P
 * 喜欢看符合胃口的网文（推荐两本 小丑游戏、地煞七十二变
-* 打球🏀
+* 打球🏀、游泳🏊‍♀️
 
-### 📫我的个人笔记[https://book.aieraflyyyy.com]
+### 📫我的学习笔记[https://book.aieraflyyyy.com]
 
 
 
