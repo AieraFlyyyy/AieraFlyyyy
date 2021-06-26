@@ -9,8 +9,8 @@ Hi，我是Aiera，2018年毕业，现生活在成都，目前做前端开发工
 
 ### 技能树
 - 熟悉掌握 React,React Native,Js,Redux,Webpack,git
-- 熟悉 Nodejs,
-- 了解 go、网络和Web相关知识
+- 熟悉 Nodejs
+- 了解 go、vue
 
 
 ### 在校奖励
