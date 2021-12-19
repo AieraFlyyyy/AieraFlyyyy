@@ -8,9 +8,9 @@ Hi，我是Aiera，2018年毕业，现生活在成都，目前做前端开发工
 
 
 ### 技能树
-- 熟悉掌握 React,React Native,Js,Redux,Webpack,git
-- 熟悉 Nodejs
-- 了解 go、vue
+- 熟悉掌握 React,Js,React Native
+- 熟悉 Nodejs,Redux,Webpack,git
+- 了解 vue,python
 
 
 ### 在校奖励
@@ -20,8 +20,8 @@ Hi，我是Aiera，2018年毕业，现生活在成都，目前做前端开发工
 
 
 ### 兴趣爱好
-* 在ygo DL里打牌 （菜鸡牌佬 :P
-* 喜欢看网文（类似小丑游戏、地煞七十二变
+* DL牌佬
+* 喜欢听音乐，看网文（强推小丑游戏、地煞七十二变
 * 打球🏀、游泳🏊‍♀️
 
 ### 📫我的学习笔记[https://book.aieraflyyyy.com]
